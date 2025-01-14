@@ -1,0 +1,138 @@
+
+#bottomnews a.readon_class{
+	float: right;}
+
+#bottomnews h4.gk_news_show_news_header {
+	margin: 0 0 8px;
+	padding:0;
+	text-align: left;}
+
+#bottomnews img.gk_news_show_news_image {
+	display: block;float: left;}
+
+#bottomnews img.gk_news_show_news_image_static {
+	display: block;float: left;}
+
+#bottomnews a.gk_news_show_news_readmore {
+}
+
+#bottomnews a.gk_news_show_news_readmore_inline {
+	margin-left: 10px;
+}
+
+#bottomnews p.gk_news_show_news_text {
+	margin-top: 0px;
+	text-align: left;}
+
+#bottomnews p.gk_news_show_news_info{
+	text-align: left}
+
+#bottomnews table.gk_news_show_table {
+}
+
+#bottomnews td.gk_news_show_tablerow_top {
+}
+
+#bottomnews div.gk_news_show_panel {
+	display: none;
+	padding: 6px 0 0 0;
+}
+
+#bottomnews div.gk_news_show_panel_font {
+	float: left;
+	width: 100px;
+	padding: 0;
+}
+
+#bottomnews div.gk_news_show_panel_font_path {
+	width: 100px;
+	height: 6px;
+	padding: 0;
+	border: 1px solid #EEE;
+}
+
+#bottomnews div.gk_news_show_panel_font_knob {
+	width: 5px;
+	height: 6px;
+	padding: 0;
+	cursor: pointer;
+	font-size: 1px;
+	background: #CCC;
+}
+
+#bottomnews span.gk_news_show_panel_font_value {
+	display:block;
+	float:left;
+}
+
+#bottomnews div.gk_news_show_panel_amount {
+	float: right;
+	width: 50px;
+	padding: 0;
+}
+
+#bottomnews div.gk_news_show_panel_amount_plus,
+#bottomnews div.gk_news_show_panel_amount_minus {
+	width: 12px;
+	height: 12px;
+	float:left;
+	line-height: 12px;
+	padding: 0;
+	text-align: center;
+	cursor: pointer;
+	margin-right: 3px;
+	border: 1px solid #EEE;
+}
+
+#bottomnews span.gk_news_show_panel_amount_value {
+	display: block;
+	float:left;
+	font-size: 10px;
+	margin-left: 4px;
+}
+
+#bottomnews div.gk_news_show_panel_tools,
+#bottomnews div.gk_news_show_panel_tools_hidden {
+	cursor: pointer;
+	padding: 0;
+	float:right;
+	font-size: 10px;
+	
+}
+
+#bottomnews td.gk_news_show_panel-border {
+       border-top: 1px dotted #ccc;
+}
+
+#bottomnews tr.gk_news_show_tablerow {
+}
+
+#bottomnews td.gk_news_show_left {
+}
+
+#bottomnews td.gk_news_show_center {
+}
+
+#bottomnews td.gk_news_show_right {
+}
+
+#bottomnews td.gk_news_show_tablerow_bottom  ul.gk_news_show_list_floated {
+}
+
+#bottomnews ul.gk_news_show_list {
+}
+
+#bottomnews tr.gk_news_show_tablerow{
+}
+
+#bottomnews tr.gk_news_show_tablerow_invisible{
+	display: none;
+}
+
+#bottomnews li.block{
+	display: block;
+}
+
+#bottomnews li.none{
+	display: none;
+}

@@ -1,0 +1,871 @@
+@charset "utf-8";
+/* CSS Document */
+
+html {
+	height: 100%!important;
+	height: auto;
+	margin: 0px 0px 0px 0px;
+}
+
+/* ###### CSS MAIN LAYOUT ###### */
+
+body {
+	font-family: Verdana, Geneva, sans-serif, Arial, Helvetica;
+	font-size: 11px;
+	color: #000000;
+	background: #e6e4e4;
+	text-align: center;
+}
+
+ #head {
+	height: 94px;
+	width: 980px;
+	text-align: left;
+	background-image: url(../images/layout-bg-top.gif);
+	padding: 0px 0px 0px 0px;
+	vertical-align: top;
+}
+
+ #head-text {
+	height: 34px;
+	width: 980px;
+	text-align: left;
+	background: #000000;
+	background-image: url(../images/bakgrunn-hode2.gif);
+	padding: 0px 0px 0px 0px;
+}
+
+div.head-text {
+	text-align: left;
+	padding: 2 0 0 173;
+	margin: 0px 0px 0px 20px;
+	color: #A0A0A0;
+	font-weight: bold;
+}
+
+#frame {
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+	text-align: left;
+	background-color: #FFFFFF;
+	background-image: url(../images/bakgrunn.gif);
+	border-bottom: 1px solid #565556;
+}
+
+#contentleft {
+		width:161px;
+		padding:0px;
+		float:left;
+		}
+
+#contentleft2 {
+		width:161px;
+		padding:0px;
+		float:left;
+		}		
+	
+#contentcenter {
+	width:819px;
+	padding:0px 0px 0px 0px;
+	float:left;
+	color : #000000;
+	margin : 0px 0px 0px 0px;
+}
+	
+#contentright {
+        /* width: 302px; */
+	padding: 0px;
+	float: left;
+}
+
+#contentcenterleft {
+	width: 517px;
+	float: left;
+}
+
+#contentcenterleft2 {
+	padding: 0px 7px 7px 10px;
+}
+
+	
+/* ###### CSS MAIN LAYOUT SLUTT ###### */
+
+/* ###### TYPOGRAPHY ###### */
+
+/* pre {
+	background: #EEEEEE;
+	border-left: 5px solid #f19e15;
+	font: 1em/1.5 "Courier News", monospace;
+	margin: 5px 0 15px;
+	padding: 10px 15px; */
+}
+
+p.tabs {
+    text-align: left;
+	margin : 0px 0px 0px 10px;
+}
+
+a.contentpagetitle {
+	font-family: "Lucida Grande",Arial,Helvetica,sans-serif;
+	color: #530000;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+a.contentpagetitle:hover {
+	font-family: "Lucida Grande",Arial,Helvetica,sans-serif;
+	color: #530000;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+a {
+	color: #530000;
+}
+
+a:hover {
+	color: #000000;
+}
+
+a.blue {
+	color: #000066;
+}
+
+a.blue:hover {
+	color: #000000;
+}
+
+
+a.vanlig-sort {
+	color: #000000;
+}
+
+a.vanlig-sort:hover {
+	color: #530000;
+}
+
+a.bold {
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a.bold:hover {
+	text-decoration: underline;
+}
+
+a.video {
+	font-family: "Lucida Grande",Arial,Helvetica,sans-serif;
+	color: #000066;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+a.video:hover {
+	text-decoration: underline;
+}
+
+a.smallbold {
+	color: #0f1b5f;
+	margin: 7px 0px 0px 0px;
+	font-weight: bold;
+	font-size: 10px;
+}
+
+a.smallbold:hover {
+	color: #000000;
+}
+
+a.ringtonematcher {
+	font:bold 15px Arial; 
+	color:red!important; 
+	text-decoration:underline
+	}
+
+table.contentpaneopen	{
+	font-size: 12px;
+}
+	
+.article_separator {
+background:transparent url(../images/dot.gif) repeat-x scroll center center;
+clear:both;
+display:block;
+height:30px;
+margin:0px 0px 0px 0px;
+}
+
+
+h1 {
+	font-family: "Lucida Grande",Arial,Helvetica,sans-serif;
+	text-decoration: none;
+	font-size: 24px;
+	margin: 0px 0px 6px 0px;
+}
+
+H1.post {
+	font: bold 14px Arial, Helvetica, sans-serif;
+	margin: 10px 0px 0px 0px;
+}
+
+
+h2 {
+	font-family: "Lucida Grande",Arial,Helvetica,sans-serif;
+	color: #530000;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+h3 {
+	font-family: "Lucida Grande",Arial,Helvetica,sans-serif;
+	color: #335b04;
+	text-decoration: none;
+	font-size: 14px;
+}
+
+h4 {
+	font-family: "Lucida Grande",Arial,Helvetica,sans-serif;
+	text-decoration: none;
+	font-size: 14px;
+}
+
+div.adsensesang {
+    text-align: left;
+	padding : 12px 0px 20px 0px;
+}
+
+div.pathway {
+	text-align: left;
+	padding: 0px 0px 10px 0px;
+}
+
+/* ###### Typography slutt ###### */
+
+/* ###### Moduler ###### */
+
+table.moduletable {
+	text-align:left;
+	margin: 0px 0px 13px 0px;
+    width: 100%;
+}
+
+#contentcenterleft2 table.moduletable {
+	text-align:left;
+	margin: 0px 0px 0px 0px;
+    width: 100%;
+}
+
+#contentcenterleft2 table.moduletable th {
+	font-family: "Lucida Grande",Arial,Helvetica,sans-serif;
+	color: #530000;
+	font-weight: bold;
+	font-size: 18px;
+	background-color: #f4f4f4;
+	padding: 25px 0px 10px 0px;
+	background-image: url(http://fretplay.com/images/h4bakgrunn.gif);
+	width: 100%;
+	
+}
+
+table.moduletablefreshtabs p {
+	margin: 5px 5px 5px 5px; 
+
+
+
+}
+
+
+table.moduletablebottom {
+	width:980px;
+	text-align:left;
+}
+
+
+table.moduletablelatest {
+	background-image: url(http://fretplay.com/images/background-guitar.jpg);
+    border-left: 1px solid #808080;
+    border-right: 1px solid #808080;
+	width: 300px;
+	margin: 0px 2px 0px 0px;
+}
+
+table.moduletablelatest2 {
+	background-image: url(http://fretplay.com/images/background-guitar2.jpg);
+    border-left: 1px solid #808080;
+    border-right: 1px solid #808080;
+    border-bottom: 1px solid #808080;
+	width: 300px;
+	margin: 0px 2px 13px 0px;
+	padding: 5px 5px 5px 5px;
+}
+
+table.moduletable160 {
+	margin: 0px 0px 0px 1px;
+	clear: both;
+}
+
+table.moduletablesearchstor {
+	margin: 0px 0px 13px 0px;
+	background-color: #edd068;
+	border: 1px solid #808080;
+	padding: 5px 5px 5px 5px;
+	width:100%;
+}
+
+table.moduletablesearchlite {
+	text-align:left;
+	margin: 0px 0px 13px 0px;
+	background-color: #edd068;
+	border: 1px solid #808080;
+	padding: 0px 5px 0px 5px;
+	width:100%;
+}
+
+table.moduletablesearchstor a, table.moduletablesearchlite a {
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+table.moduletablesearchstor a:hover, table.moduletablesearchlite a:hover {
+	color: #530000;
+	text-decoration: underline;
+}
+
+table.moduletablesearchstor h3 {
+	margin: 0px 0px 0px 0px;
+	font-size: 12px;
+}
+
+table.moduletablesearchlite form {
+	text-align: center;
+	margin: 6px 0px 6px 0px;
+}
+
+table.moduletablesearchstor form {
+	text-align: center;
+	margin: 10px 0px 5px 0px;
+	line-height: 25px;
+}
+
+table.moduletablesort {
+	margin: 0px 0px 13px 0px;
+	background-color: #000000;
+	padding: 0px 0px 0px 0px;
+	width:100%;
+	color: #FFFFFF;
+}
+
+table.moduletablesort div.h3 {
+	background-color: #4E4E4E;
+	color: #FF9A48;
+	background-image: url(../images/bakgrunn-hode2.gif);
+	padding: 1px 7px 1px 7px;
+	font-size: 12px;
+}
+
+table.moduletablesort div.text {
+	margin: 5px 7px 5px 5px;
+}
+
+table.moduletablesort a {
+	color: #EBEBEB;
+	text-decoration: none;
+}
+
+table.moduletablesort a:hover {
+color:#FF9A48;
+text-decoration:underline;
+}
+
+div.moduletable {
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+table.moduletable span {
+	text-align: left;
+}
+
+table.moduletablebottomsort{
+	width:980px;
+	background:#000000 url(http://www.fretplay.com/images/layout/guitar-video-back.gif) repeat-x;
+	margin-top: 10px;
+	padding: 0px 10px 10px 10px;
+	text-align:left;
+	color:#CCCCCC;
+}
+
+table.moduletablebottomsort th {
+	font-family: "Lucida Grande",Arial,Helvetica,sans-serif;
+	color: #767676;
+	text-decoration: none;
+	font-size: 16px;
+	padding-top: 3px;
+	padding-bottom: 9px;
+	background:none;
+}
+
+/* ###### Moduler slutt ###### */
+
+/* ###### Modul: News Show - lister siste artikler, tilfeldige artikler etc ###### */
+
+
+table.gk_news_show_table
+    {
+    margin: 6px 0px 0px 0px;
+    }
+
+tr.gk_news_show_tablerow td {
+	padding-top: 0px;
+}
+
+td.gk_news_show_center, td.gk_news_show_right {
+	padding-left: 7px;
+}
+
+tr.gk_news_show_tablerow h4 a {
+	font-family: "Lucida Grande",Arial,Helvetica,sans-serif;
+	color: #530000;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 13px;
+	margin: 0px 0px 0px 0px;
+	padding-bottom: 0px;
+}
+
+tr.gk_news_show_tablerow h4 a:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+
+tr.gk_news_show_tablerow p {
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+img.gk_news_show_news_image_static {
+border:none;
+}
+
+table.moduletablebottom td {
+	padding-right: 7px;
+	padding-left: 7px;
+	}
+
+/* ###### Modul News Show - slutt ###### */
+
+/* ###### 4 sorte boxer start ###### */
+
+H3.highlight {
+	color: #ff9a48;
+	font-weight: bold;
+}
+
+A.highlight {
+	color: #ff9a48;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+A.highlight:hover {
+	text-decoration: underline;
+}
+
+TD.highlight {
+	color: #FFFFFF;
+}
+
+a.hvit {
+	color: #FFFFFF;
+}
+
+a.hvit:hover {
+	color: #ff9a48;
+}
+
+/* ###### 4 sorte boxer slutt ###### */
+
+/* ###### MENY VENSTRE SIDE ##### */
+
+table.moduletable th, div.moduletable h3, table.moduletablelatest th, table.moduletablefreshtabs th {
+	text-align: left;
+	background-color: #000000;
+	color: #ababab;
+	padding: 1px 0px 1px 5px;
+	margin: 0px 0px 0px 0px;
+	width:100%;
+	font-weight: bold;
+}
+
+#leftcolumn {
+	margin: 0;
+	width: 160px;
+	padding:0px 0px 0px 0;
+	float:right;
+}
+
+
+div.module_menu ul li a:link, div.module_menu ul li a:visited {
+	font-weight: bold;
+	background:transparent url(http://www.fretplay.com/templates/fretplay/images/layout-button.gif) top left no-repeat;
+	padding:2px 0 2px 5px;
+
+}
+
+
+/* ramme rundt hele menyen */
+#leftcolumn .moduletable_menu, #leftcolumn .moduletable, #leftcolumn .moduletable_text, #leftcolumn .c, 
+#contentright .moduletable_menu, #rightcolumn .moduletable, #rightcolumn .moduletable_text, #rightcolumn .c {
+	margin:0 0 13px 1px;
+	padding: 0px;
+    width: 160px;
+}
+
+#leftcolumn ul.menu, #contentright ul.menu {
+	margin:0;
+	padding:0;
+	list-style:none;
+	border-top:none;
+}
+
+#leftcolumn ul.menu li, #contentright ul.menu li {
+	margin:0;
+	padding:0;
+	background: #f5f5f5;
+}
+
+#leftcolumn ul.menu li a, #leftcolumn ul.menu li a:link,
+#contentright ul.menu li a, #contentright ul.menu li a:link {
+	display: block;
+	line-height: 15px;
+	background: #f5f5f5 url(http://www.fretplay.com/templates/fretplay/images/layout-button.gif);
+	border-top: 1px solid #dddddd;
+	border-bottom: 1px solid #8F8F8F;
+	text-decoration: none;
+	color: #000000;
+	padding: 0px 0px 0px 5px;
+	text-align: left;
+	font-weight: normal;
+}
+
+#leftcolumn ul.menu li a:hover, #contentright ul.menu li a:hover {
+	background:#eeeeee url(http://www.fretplay.com/templates/fretplay/images/layout-button2.gif);
+	font-weight:bold;
+	line-height:15px;
+	color:#000000;
+	border-top:1px solid #dddddd;
+	border-bottom:1px solid #3B3B3B;
+}
+
+/* ****** left col current menu ****** */
+#leftcolumn ul.menu li#current a, #leftcolumn ul.menu li#current a:link, 
+#contentright ul.menu li#current a, #contentright ul.menu li#current a:link {
+	display:block;
+	line-height:15px;
+	background:#f5f5f5 url(http://www.fretplay.com/templates/fretplay/images/layout-button.gif);
+	border-top:1px solid #dddddd;
+	border-bottom:1px solid #8F8F8F;
+	text-decoration:none;
+	color:#000000;
+	font-weight: normal;
+}
+
+#leftcolumn ul.menu li#current a:hover, #contentright ul.menu li#current a:hover {
+	background:#eeeeee url(http://www.fretplay.com/templates/fretplay/images/layout-button2.gif);
+	line-height:15px;
+	color:#000000;
+	border-top:1px solid #dddddd;
+	border-bottom:1px solid #3B3B3B;
+	font-weight: bold;
+}
+
+/* ****** left col sub menu ****** */
+#leftcolumn ul.menu li ul, #contentright ul.menu li ul {
+	margin:0;
+	padding:0 0 0 0px;
+	list-style:none;
+}
+
+#leftcolumn ul.menu li#current ul li a, #leftcolumn ul.menu li#current ul li a:link,
+#contentright ul.menu li#current ul li a, #contentright ul.menu li#current ul li a:link {
+	background:#f5f5f5 url(http://fretplay.com/templates/siteground-j15-23/images/menu_sub_link_bg.gif) left no-repeat;
+	text-decoration:none;
+	color:#4f8c31;
+	padding:0px 0px 0px 0px;
+}
+
+#leftcolumn ul.menu li#current ul li a:hover, #contentright ul.menu li#current ul li a:hover {
+	background:#f5f5f5 url(http://fretplay.com/templates/siteground-j15-23/images/menu_sub_link_bg.gif) left no-repeat;
+	color:#666666;
+}
+
+/* ###### MENY VENSTRE SIDE SLUTT ##### */
+/* ###### TOPP HORISONTAL MENY ###### */
+
+
+td.moduletablehorisontalytter
+{
+height: 31px; 
+background-color:#e5e5e5; 
+border-right: 1px solid #565556;
+}
+
+table.moduletablehorisontalytter {
+	float: left;
+	background-color: #e5e5e5;
+	padding: 0 0px 10px 0px;
+	margin: 0;
+	width: 100%;
+	background: url(http://www.fretplay.com/images/tabmenubak.gif);
+}
+
+table.moduletablehorisontal {
+	float: left;
+	margin: 0px 0px 0px 0px;
+	background-color:#e5e5e5;
+	background: url(http://www.fretplay.com/images/tabmenubak.gif);
+}
+
+table.moduletablehorisontal ul {
+	margin: 0;
+	padding:  0px 0px 0px 10px;
+	list-style: none;
+}
+
+table.moduletablehorisontal li  {
+	float: left;
+	margin: 0px 4px 0px 0px;
+	padding: 0;
+	height: 31px;
+	background: url(http://www.fretplay.com/images/tabmenuright.gif) top right no-repeat;
+}
+
+table.moduletablehorisontal li:hover  {
+	background: url(http://www.fretplay.com/images/tabmenuright4.gif) top right no-repeat;
+}
+
+table.moduletablehorisontal li a#active_menuhorisontal  {
+	background: url(http://www.fretplay.com/images/tabmenuright3.gif) top right no-repeat;
+	color:#000000;
+	border-left: 1px solid #000000;
+}
+
+table.moduletablehorisontal li a#active_menuhorisontal:hover {
+	text-decoration: underline;
+	padding: 0px 8px 0px 8px;
+}
+
+table.moduletablehorisontal li a {
+	font-family: Verdana, Tahoma, sans-serif;
+	font-size: 12px;
+	float: left;
+	display: block;
+	line-height: 31px;
+	padding: 1px 8px 0px 8px;
+	color: #e2e2e2;
+	text-decoration: none;
+	font-weight: normal;
+	background: url(http://www.fretplay.com/images/tabmenuleft.gif) top left no-repeat;
+}
+
+table.moduletablehorisontal li a:hover {
+	color: #ffffff;
+	background: url(http://www.fretplay.com/images/tabmenuleft4.gif) top left no-repeat;
+	text-decoration: underline;
+	padding: 0px 8px 0px 8px;
+}
+
+/* ###### TOPP HORISONTAL MENY SLUTT ###### */
+
+/* ###### FIRE FELTER NEDERST ###### */
+
+table.bottom, table.moduletablebottom{
+	background:#cecece url(http://www.fretplay.com/images/layout/bottom-back.gif) repeat-x;
+	border: 1px solid #333333;
+	margin-top: 10px;
+	padding: 0px 10px 10px 10px;
+}
+
+fieldset  {
+	color: #666;
+	padding: 0px;
+	margin: 0px;
+	border: solid 1px #d3d3d3;
+	}
+
+input.formInputText   {
+	font-size: 11px;
+	color: #000000;
+	background-color: #fee;
+	padding: 1px;
+	height: 15px;
+	background-color: #f4f4f4;
+	border: solid 1px #9b9b9b;
+	}
+	
+input.formInputText:hover {
+	background-color: #ffffff;
+	border: solid 1px #bfbfbf;
+	color: #000;
+	cursor: text;
+	}
+	
+input.formInputText:focus {
+	color: #000;
+	background-color: #ffffff;
+	border: solid 1px #9b9b9b;
+	cursor: text;
+	}
+	
+
+input.formInputButton   {
+	font-size: 11px;
+	vertical-align: top;
+	font-weight: bold;
+	color: #000000;
+	background: #c0c0c0;
+	padding: 1px;
+	border-left: 1px solid #efefef;
+	border-top: 1px solid #efefef;
+	border-bottom: 1px solid #565556;
+	border-right: 1px solid #565556;
+	cursor: pointer;
+	margin-left:4px;
+	}
+	
+table.bottom a {
+	color: #000066;
+	font-size: 11px;
+}
+
+table.bottom a:hover {
+	color: #000000;
+}
+
+table.bottom a.grey {
+	color: #000000;
+	font-size: 11px;
+}
+
+table.bottom a.grey:hover {
+	color: #4b4b4b;
+}
+
+table.bottom th, table.moduletablebottom th {
+	font-family: "Lucida Grande",Arial,Helvetica,sans-serif;
+	color: #11593c;
+	text-decoration: none;
+	font-size: 16px;
+	padding-top: 3px;
+	padding-bottom: 9px;
+	background:none;
+}
+
+form.bottom
+{
+margin-top: 0px;
+margin-bottom: 15px;
+}
+
+/* ###### FIRE FELTER NEDERST SLUTT ###### */
+
+/* ###### VIDEORELATERT ###### */
+
+div.videobilde {
+	float:left;
+	height: 75px;
+	width: 100px;
+	margin-right:5px;
+	 margin-bottom:5px;
+}
+
+div.videobildelite {
+	float:left;
+	height: 56px;
+	width: 75px;
+	margin-right:5px;
+	 margin-bottom:5px;
+}
+
+#wrapper {
+color:#666666;
+	text-align: left;
+	margin: 0px auto;
+	padding: 0px;
+	background-color:#e5e5e5;
+	border-right: 1px solid #565556;
+	position: relative; left: -0px; top: -2px;
+}
+
+
+#side-a {
+	float: left;
+	width: 432px;
+	text-align:center;
+	padding-top:0px;
+}
+
+#side-b { 
+	margin: 0;
+	float: left;
+	width: 368px;
+	padding-top:0px;
+	height: 1% /* Holly hack for Peekaboo Bug */
+}
+
+#videofooter {
+	clear: both;
+	height:6px;
+}
+
+div.scroll {
+	height: 304px;
+	width: 350px;
+	overflow:auto;
+	border: 1px solid #cdcdcd;
+	padding: 8px;
+	background: #fcfcfc url("http://fretplay.com/images/layout/guitar-video-back2.gif") repeat-x;
+	background-attachment: scroll;
+	margin-bottom:7px;
+}
+
+div.scroll2 {
+	height: 350px;
+	width: 298px;
+	overflow:auto;
+	border: 1px solid #cdcdcd;
+	margin-bottom:7px;
+}
+
+div.videobilde {
+	float:left;
+	height: 75px;
+	width: 100px;
+	margin-right:5px;
+	 margin-bottom:5px;
+}
+
+a.videobluebold {
+	color: #C0C0C0;
+	font-weight : bold;
+}
+
+a.videobluebold:hover {
+	color: #ff9a48;
+}
+
+a.videoblue {
+	color: #C0C0C0;
+}
+
+a.videoblue:hover {
+	color: #ff9a48;
+}
+
+
+/* ###### VIDEORELATERT SLUTT ###### */
