@@ -72,6 +72,10 @@
 - [Two of us](https://www.youtube.com/watch?v=cLQox8e9688)
 - [Rain](https://www.youtube.com/watch?v=cK5G8fPmWeA)
 - [Pink houses](https://www.youtube.com/watch?v=qOfkpu6749w)
+- [Midnight blues](https://www.youtube.com/watch?v=_EQeEXEswgo)
+- [City of New Orleans](https://www.youtube.com/watch?v=jWYWaayje3o)
+- [Devil in disguise](https://www.youtube.com/watch?v=qVj6QBhdmiw)
+- [Crazy mama](https://www.youtube.com/watch?v=lcY5SQECqks)
 - 
 - 
 
