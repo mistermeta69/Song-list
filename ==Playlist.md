@@ -57,8 +57,19 @@
 - [Hurt](https://www.youtube.com/watch?v=iq8VPex5-Ts)
 - [Cat, Suit, etc from Deja Voodoo](https://www.youtube.com/watch?v=M_YUnyKxgJ4)
 - [Ride the train](https://www.youtube.com/watch?v=9GlNKST3_Rc)
-- [State trooper](https://www.youtube.com/watch?v=9GlNKST3_Rc)
-- 
+- [State trooper](https://www.youtube.com/watch?v=nU5MyNuBdhg)
+- [Gallows pole](https://www.youtube.com/watch?v=CmxaT37yeOs)
+- [Slip slidin' away](https://www.youtube.com/watch?v=iUODdPpnxcA)
+- [Tree by the river](https://www.youtube.com/watch?v=ocr2-7W1GHw)
+- [Tiger tiger](https://www.youtube.com/watch?v=DRpMsCRIS_o)
+- [Fisherman blues](https://www.youtube.com/watch?v=a4UQJwd3awQ)
+- [Claire](- https://www.youtube.com/watch?v=bvIJs5_2PD4)
+- [After the gold rush](https://www.youtube.com/watch?v=d6Zf4D1tHdw)
+- [Margaritaville](https://www.youtube.com/watch?v=mrF4nF8VUb4)
+- [Everyday is a  winding road](https://www.youtube.com/watch?v=e3QK_NwfECg)
+- [Take it easy](https://www.youtube.com/watch?v=EWw9M_hPJbU)
+- [Help I'm alive](https://www.youtube.com/watch?v=ZoK63Bk7pgw)
+- [Two of us](https://www.youtube.com/watch?v=cLQox8e9688)
 - 
 
 # [ORIGINALS](https://drive.google.com/drive/folders/1z0ft2zOqth9AEzh6ZIvWN7xUag6-_nIx?usp=sharing)
