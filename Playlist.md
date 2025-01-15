@@ -27,7 +27,6 @@
 - [Bros](https://www.youtube.com/watch?v=TD_Q9CxXTo4)
 - [Brother down](https://www.youtube.com/watch?v=71EnaOs-Xdk)
 - [Calamity song](https://www.youtube.com/watch?v=lcGSEbfegrs)
-- [Calamity song](https://www.youtube.com/watch?v=lcGSEbfegrs)
 - [Can't stand the rain](https://www.youtube.com/watch?v=_RWKphdVsXg)
 - [Cat, Suit, etc from Deja Voodoo](https://www.youtube.com/watch?v=M_YUnyKxgJ4)
 - [Cinnamon girl](https://www.youtube.com/watch?v=jREf47BPe5w)
