@@ -89,7 +89,7 @@
 - [Tiger tiger](https://www.youtube.com/watch?v=DRpMsCRIS_o)
 - [Tree by the river](https://www.youtube.com/watch?v=ocr2-7W1GHw)
 - [Two of us](https://www.youtube.com/watch?v=cLQox8e9688)
-- [We mcould be heroes](https://www.youtube.com/watch?v=YLp2cW7ICCU)
+- [We could be heroes](https://www.youtube.com/watch?v=YLp2cW7ICCU)
 - [Who'll stop the rain](https://www.youtube.com/watch?v=lIPan-rEQJA)
 - [Wish you were here](https://www.youtube.com/watch?v=hjpF8ukSrvk)
 - [Woodstock](https://www.youtube.com/watch?v=Irb-B2mwAJU)
