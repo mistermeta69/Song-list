@@ -78,7 +78,6 @@
 - [She said](https://www.youtube.com/watch?v=rLzfo59AdEc)
 - [Short skirt](https://www.youtube.com/watch?v=85zV1fpSJQ0)
 - [Slip slidin' away](https://www.youtube.com/watch?v=iUODdPpnxcA)
-- [Slip sliding away](https://www.youtube.com/watch?v=iUODdPpnxcA)
 - [So far away](https://www.youtube.com/watch?v=8QsE7Ln9dn8)
 - [Someone who is cool](https://www.youtube.com/watch?v=eimpocAKIv0)
 - [State trooper](https://www.youtube.com/watch?v=nU5MyNuBdhg)
