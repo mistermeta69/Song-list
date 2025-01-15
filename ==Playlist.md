@@ -1,4 +1,4 @@
-# Originals 
+# Covers 
 - [Bahamas](https://www.youtube.com/watch?v=w_BbyXcMh7Y)
 - [Northern air](https://www.youtube.com/watch?v=0RIcuFySNXE)
 - [Green river](https://www.youtube.com/watch?v=3WbmBK9BR9U)
@@ -49,7 +49,7 @@
 - [Ipanema](https://www.youtube.com/watch?v=s61-e29Vr6Q)
 - [Wish you were here](https://www.youtube.com/watch?v=hjpF8ukSrvk)
 - [You can't always get what you want](https://www.youtube.com/watch?v=krxU5Y9lCS8)
-- Short skirt](https://www.youtube.com/watch?v=85zV1fpSJQ0]
+- [Short skirt](https://www.youtube.com/watch?v=85zV1fpSJQ0)
 - [Heroes -Sobule](https://www.youtube.com/watch?v=xlsAdYjUzI4)
 - [Heaven](https://www.youtube.com/watch?v=JAa7J10D8Qw)
 - [Perfect day](https://www.youtube.com/watch?v=V0--emrNth8)
