@@ -1,6 +1,9 @@
 # Originals 
 - [Bahamas](https://www.youtube.com/watch?v=w_BbyXcMh7Y)
+- [Northern air](https://www.youtube.com/watch?v=0RIcuFySNXE)
+- [Green river](https://www.youtube.com/watch?v=3WbmBK9BR9U)
 - [Bros](https://www.youtube.com/watch?v=TD_Q9CxXTo4)
+- [Someone who is cool](https://www.youtube.com/watch?v=eimpocAKIv0)
 - [Woodstock](https://www.youtube.com/watch?v=Irb-B2mwAJU)
 - [Closer to fine](https://www.youtube.com/watch?v=HUgwM1Ky228)
 - [2002](https://www.youtube.com/watch?v=873Y6t-uCvE)
@@ -12,6 +15,7 @@
 - [Hasn't hit me yet](https://www.youtube.com/watch?v=oMt0skVPC0o)
 - [Long may you run](https://www.youtube.com/watch?v=dVM8_jAL86w)
 - [A new name for everything](https://www.youtube.com/watch?v=KMPPVUPUC1E)
+- [Sweet Jane](https://www.youtube.com/watch?v=Fa9nN3G2CSg)
 - [Copper kettle](https://www.youtube.com/watch?v=_r4He-YOm1o&list=OLAK5uy_m9akF4iT5WLjaCT16gSim-qVr0rHA-DgU&index=3)
 - [Pretty vacant](https://www.youtube.com/watch?v=2sQaJNtbSzI)
 - [It's only rock'n'roll](https://www.youtube.com/watch?v=DmgCy__eUa8)
@@ -22,6 +26,9 @@
 - [Heroes](https://www.youtube.com/watch?v=YLp2cW7ICCU)
 - [Five years](https://www.youtube.com/watch?v=2ObjtVdsV3I)
 - [Dear Mr Fantasy](https://www.youtube.com/watch?v=sS_eHdqcrM8)
+- [Take me to the river](https://www.youtube.com/watch?v=9FBUgdhxe9M)
+- [Honky tonk women](https://www.youtube.com/watch?v=hqqkGxZ1_8I)
+  
 
 # [ORIGINALS](https://drive.google.com/drive/folders/1z0ft2zOqth9AEzh6ZIvWN7xUag6-_nIx?usp=sharing)
 - [wingswish]
