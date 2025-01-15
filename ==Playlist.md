@@ -52,8 +52,13 @@
 - Short skirt](https://www.youtube.com/watch?v=85zV1fpSJQ0]
 - [Heroes -Sobule](https://www.youtube.com/watch?v=xlsAdYjUzI4)
 - [Heaven](https://www.youtube.com/watch?v=JAa7J10D8Qw)
-- [Perfec day](https://www.youtube.com/watch?v=V0--emrNth8]
-
+- [Perfect day](https://www.youtube.com/watch?v=V0--emrNth8)
+- [Hard road](https://www.youtube.com/watch?v=LRGyGEtZyY4)
+- [Hurt](https://www.youtube.com/watch?v=iq8VPex5-Ts)
+- [Cat, Suit, etc from Deja Voodoo](https://www.youtube.com/watch?v=M_YUnyKxgJ4)
+- [Ride the train](https://www.youtube.com/watch?v=9GlNKST3_Rc)
+- [State trooper](https://www.youtube.com/watch?v=9GlNKST3_Rc)
+- 
 - 
 
 # [ORIGINALS](https://drive.google.com/drive/folders/1z0ft2zOqth9AEzh6ZIvWN7xUag6-_nIx?usp=sharing)
