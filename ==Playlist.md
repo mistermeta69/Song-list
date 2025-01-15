@@ -23,7 +23,7 @@
 - [She said](https://www.youtube.com/watch?v=rLzfo59AdEc)
 - [For what it's worth](https://www.youtube.com/watch?v=gp5JCrSXkJY)
 - [Slip sliding away](https://www.youtube.com/watch?v=iUODdPpnxcA)
-- [Heroes](https://www.youtube.com/watch?v=YLp2cW7ICCU)
+- [We mcould be heroes](https://www.youtube.com/watch?v=YLp2cW7ICCU)
 - [Who'll stop the rain](https://www.youtube.com/watch?v=lIPan-rEQJA)
 - [Last night of the world](https://www.youtube.com/watch?v=Z55Qqz42_Kk)
 - [Ahead by a century](https://www.youtube.com/watch?v=QE2joQsWXJg)
@@ -54,7 +54,7 @@
 - [Heaven](https://www.youtube.com/watch?v=JAa7J10D8Qw)
 - [Perfect day](https://www.youtube.com/watch?v=V0--emrNth8)
 - [Hard road](https://www.youtube.com/watch?v=LRGyGEtZyY4)
-- [Hurt](https://www.youtube.com/watch?v=iq8VPex5-Ts)
+- [Hurt](https://www.youtube.com/watch?v=8AHCfZTRGiI)
 - [Cat, Suit, etc from Deja Voodoo](https://www.youtube.com/watch?v=M_YUnyKxgJ4)
 - [Ride the train](https://www.youtube.com/watch?v=9GlNKST3_Rc)
 - [State trooper](https://www.youtube.com/watch?v=nU5MyNuBdhg)
@@ -70,6 +70,9 @@
 - [Take it easy](https://www.youtube.com/watch?v=EWw9M_hPJbU)
 - [Help I'm alive](https://www.youtube.com/watch?v=ZoK63Bk7pgw)
 - [Two of us](https://www.youtube.com/watch?v=cLQox8e9688)
+- [Rain](https://www.youtube.com/watch?v=cK5G8fPmWeA)
+- [Pink houses](https://www.youtube.com/watch?v=qOfkpu6749w)
+- 
 - 
 
 # [ORIGINALS](https://drive.google.com/drive/folders/1z0ft2zOqth9AEzh6ZIvWN7xUag6-_nIx?usp=sharing)
