@@ -63,7 +63,7 @@
 - [Tree by the river](https://www.youtube.com/watch?v=ocr2-7W1GHw)
 - [Tiger tiger](https://www.youtube.com/watch?v=DRpMsCRIS_o)
 - [Fisherman blues](https://www.youtube.com/watch?v=a4UQJwd3awQ)
-- [Claire](- https://www.youtube.com/watch?v=bvIJs5_2PD4)
+- [Claire](https://www.youtube.com/watch?v=bvIJs5_2PD4)
 - [After the gold rush](https://www.youtube.com/watch?v=d6Zf4D1tHdw)
 - [Margaritaville](https://www.youtube.com/watch?v=mrF4nF8VUb4)
 - [Everyday is a  winding road](https://www.youtube.com/watch?v=e3QK_NwfECg)
