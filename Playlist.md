@@ -43,7 +43,7 @@
 - [Fisherman blues](https://www.youtube.com/watch?v=a4UQJwd3awQ)
 - [Five years](https://www.youtube.com/watch?v=2ObjtVdsV3I)
 - [For what it's worth](https://www.youtube.com/watch?v=gp5JCrSXkJY)
-- [Four astrong winds](https://www.youtube.com/watch?v=DP9UjLeLN5A&list=RDDP9UjLeLN5A&start_radio=1)
+- [Four strong winds](https://www.youtube.com/watch?v=DP9UjLeLN5A&list=RDDP9UjLeLN5A&start_radio=1)
 - [Gallows pole](https://www.youtube.com/watch?v=CmxaT37yeOs)
 - [Green river](https://www.youtube.com/watch?v=3WbmBK9BR9U)
 - [Hard road](https://www.youtube.com/watch?v=LRGyGEtZyY4)
