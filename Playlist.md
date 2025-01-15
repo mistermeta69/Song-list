@@ -71,7 +71,6 @@
 - [Perfect day](https://www.youtube.com/watch?v=V0--emrNth8)
 - [Pink houses](https://www.youtube.com/watch?v=qOfkpu6749w)
 - [Pocahontas](https://www.youtube.com/watch?v=bJPq90mBXEE)
-- [Pocanhontas](https://www.youtube.com/watch?v=bJPq90mBXEE)
 - [Pretty vacant](https://www.youtube.com/watch?v=2sQaJNtbSzI)
 - [Rain](https://www.youtube.com/watch?v=cK5G8fPmWeA)
 - [Ride the train](https://www.youtube.com/watch?v=9GlNKST3_Rc)
