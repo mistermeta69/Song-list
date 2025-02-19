@@ -80,6 +80,7 @@
 1. [Slip slidin' away](https://www.youtube.com/watch?v=iUODdPpnxcA)
 1. [So far away](https://www.youtube.com/watch?v=8QsE7Ln9dn8)
 1. [Someone who is cool](https://www.youtube.com/watch?v=eimpocAKIv0)
+2. [Stupid girl](https://www.youtube.com/watch?v=2GhPUAVgHZc)
 1. [State trooper](https://www.youtube.com/watch?v=nU5MyNuBdhg)
 1. [Sweet Jane](https://www.youtube.com/watch?v=Fa9nN3G2CSg)
 1. [Take it easy](https://www.youtube.com/watch?v=EWw9M_hPJbU)
