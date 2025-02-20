@@ -16,7 +16,7 @@
 # Covers 
 1. [2002](https://www.youtube.com/watch?v=873Y6t-uCvE)
 1. [A new name for everything](https://www.youtube.com/watch?v=KMPPVUPUC1E)
-1. [Across the universe](https://www.youtube.com/watch?v=a4UQJwd3awQ)
+1. [Across the universe](https://www.youtube.com/watch?v=90M60PzmxEE)
 2. [After midnight](https://www.youtube.com/watch?v=5WUeOEkl270)
 1. [After the gold rush](https://www.youtube.com/watch?v=d6Zf4D1tHdw)
 1. [Ahead by a century](https://www.youtube.com/watch?v=QE2joQsWXJg)
