@@ -15,6 +15,7 @@
 
 # Covers 
 1. [2002](https://www.youtube.com/watch?v=873Y6t-uCvE)
+1. [All the best -Prine](https://tabs.ultimate-guitar.com/tab/john-prine/all-the-best-chords-2655498) [video](https://www.youtube.com/watch?v=1zq2hOeUrQA)
 1. [A new name for everything](https://www.youtube.com/watch?v=KMPPVUPUC1E)
 1. [Across the universe](https://www.youtube.com/watch?v=90M60PzmxEE)
 2. [After midnight](https://www.youtube.com/watch?v=5WUeOEkl270)
