@@ -76,6 +76,7 @@
 1. [Rain](https://www.youtube.com/watch?v=cK5G8fPmWeA)
 1. [Ride the train](https://www.youtube.com/watch?v=9GlNKST3_Rc)
 1. [Rikki](https://www.youtube.com/watch?v=UfZWp-hGCdA)
+1. [Christine Kane - she don't like roses](https://www.youtube.com/watch?v=XQOslI8vNE8)
 1. [She said](https://www.youtube.com/watch?v=rLzfo59AdEc)
 1. [Short skirt](https://www.youtube.com/watch?v=85zV1fpSJQ0)
 1. [Slip slidin' away](https://www.youtube.com/watch?v=iUODdPpnxcA) [cover](https://www.youtube.com/watch?v=_3XRbW18NzQ)
