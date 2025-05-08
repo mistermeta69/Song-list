@@ -80,6 +80,7 @@
 1. [Christine Kane - she don't like roses](https://www.youtube.com/watch?v=XQOslI8vNE8)
 1. [She said](https://www.youtube.com/watch?v=rLzfo59AdEc)
 1. [Short skirt](https://www.youtube.com/watch?v=85zV1fpSJQ0)
+2. [Sins of Memphisto](https://www.youtube.com/watch?v=73bTWmuI5mk)
 1. [Slip slidin' away](https://www.youtube.com/watch?v=iUODdPpnxcA) [cover](https://www.youtube.com/watch?v=_3XRbW18NzQ)
 1. [So far away](https://www.youtube.com/watch?v=8QsE7Ln9dn8)
 1. [Someone who is cool](https://www.youtube.com/watch?v=eimpocAKIv0)
