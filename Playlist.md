@@ -20,7 +20,7 @@
 1. [Across the universe](https://www.youtube.com/watch?v=90M60PzmxEE)
 2. [After midnight](https://www.youtube.com/watch?v=5WUeOEkl270)
 1. [After the gold rush](https://www.youtube.com/watch?v=d6Zf4D1tHdw)
-1. [Ahead by a century](https://www.youtube.com/watch?v=QE2joQsWXJg)
+1. [Ahead by a century](https://www.youtube.com/watch?v=QE2joQsWXJg) [Clara's version](https://www.youtube.com/watch?v=NXipgOPeV7o&list=RDNXipgOPeV7o&start_radio=1)
 1. [Angel from Montgommery](https://www.youtube.com/watch?v=WKjIDJAP7Lg)
 1. [Annabelle](https://www.youtube.com/watch?v=yOk1UDGSIcc)
 1. [Are you ready](https://www.youtube.com/watch?v=MmDQJjCHDOQ)
