@@ -94,7 +94,7 @@
 1. [Tiger tiger](https://www.youtube.com/watch?v=DRpMsCRIS_o)
 1. [Tree by the river](https://www.youtube.com/watch?v=ocr2-7W1GHw)
 1. [Two of us](https://www.youtube.com/watch?v=cLQox8e9688)
-1. [Use me](https://www.youtube.com/watch?v=NuYDKzky4z0)
+1. [Use me](https://www.youtube.com/watch?v=NuYDKzky4z0)[Clara's version](https://www.youtube.com/watch?v=ET8E0o1w2xk)
 1. [We could be heroes](https://www.youtube.com/watch?v=YLp2cW7ICCU)
 1. [Who'll stop the rain](https://www.youtube.com/watch?v=lIPan-rEQJA)
 1. [Wish you were here](https://www.youtube.com/watch?v=hjpF8ukSrvk)
