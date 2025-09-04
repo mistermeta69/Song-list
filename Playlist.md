@@ -49,6 +49,7 @@
 1. [Gallows pole](https://www.youtube.com/watch?v=CmxaT37yeOs)
 1. [Green river](https://www.youtube.com/watch?v=3WbmBK9BR9U)
 1. [Hard road](https://www.youtube.com/watch?v=LRGyGEtZyY4)
+2. [Harvest Moon](https://www.youtube.com/watch?v=nlfVpj7Girk)
 1. [Hasn't hit me yet](https://www.youtube.com/watch?v=oMt0skVPC0o)
 1. [Heaven](https://www.youtube.com/watch?v=JAa7J10D8Qw)
 1. [Help I'm alive](https://www.youtube.com/watch?v=ZoK63Bk7pgw)
